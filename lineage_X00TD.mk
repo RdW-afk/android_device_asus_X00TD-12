@@ -16,7 +16,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 # Inherit some riceDroid stuff.
-RICE_MAINTAINER := TIKTODZ
+RICE_MAINTAINER := Mr_ZerO
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 WITH_GMS := true
