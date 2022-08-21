@@ -23,7 +23,6 @@ CORVUS_MAINTAINER := Mr_ZerO
 RAVEN_LAIR := Unofficial
 
 TARGET_FACE_UNLOCK_SUPPORTED := true
-USE_PHOTON_CAM := true
 
 # Gapps Config
 TARGET_GAPPS_ARCH := arm64
