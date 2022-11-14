@@ -19,7 +19,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Maintainer
-CORVUS_MAINTAINER := Mr_ZerO
+CORVUS_MAINTAINER := Romeo_Delta_Whiskey
 RAVEN_LAIR := Unofficial
 
 TARGET_FACE_UNLOCK_SUPPORTED := true
@@ -40,7 +40,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-asus
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=ASUS_X00T \
     PRODUCT_NAME=WW_X00T \
-    PRIVATE_BUILD_DESC="raven-user 12 SQ3A.220705.003.A1 8672226 release-keys"
+    PRIVATE_BUILD_DESC="cheetah-user 13 TD1A.221105.001 9104446 release-keys"
 
 # Build fingerprint
-BUILD_FINGERPRINT := "google/raven/raven:12/SQ3A.220705.003.A1/8672226:user/release-keys"
+BUILD_FINGERPRINT := "google/cheetah/cheetah:13/TD1A.221105.001/9104446:user/release-keys"
