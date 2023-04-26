@@ -17,6 +17,10 @@ BANANA_BUILD_TYPE := OFFICIAL
 BANANA_MAINTAINER := Romeo_Delta_Whiskey
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
+#Gapps
+WITH_GAPPS := true
+BUILD_CORE_GAPPS := true
+
 # Inherit from X00TD device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
